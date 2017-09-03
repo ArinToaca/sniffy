@@ -1,2 +1,2 @@
 # sniffy
-Python Sniffer
+Python Networking thingie
